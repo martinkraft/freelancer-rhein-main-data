@@ -1,0 +1,26 @@
+{
+    "name": "Martin Kraft",
+    "title": "Interaktionsdesign",
+    "email": "mail@martinkraft.com",
+    "phone": "0174 1234 567",
+    "website": "http://www.martinkraft.com",
+    "city": ["Wiesbaden", "Mainz"],
+    "keywords": ["Interaktionsdesign", "Infografik", "HTML", "CSS", "JavaScript", "Erkläranimation", "Fotografie"],
+    "profiles": {
+        "gravatar": "mail@martinkraft.com",
+        "xing": "https://www.xing.com/profile/Martin_Kraft",
+        "twitter": "http://twitter.com/martin_kraft",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/martin-kraft-5635573b/",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "https://www.flickr.com/photos/90741600@N03/",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
